@@ -1,0 +1,35 @@
+{
+	"style":[
+		{
+		"bg":"#000",
+		"fg":"#fff",
+		"relief" :"flat",
+		"font" : ["Calibri" ,14 ],
+		"images" : [""]
+		}
+	],
+	"root-config" : [
+		{
+		"bg-root":"#000",
+		"geometry" : "500x300",
+		"title" : "",
+		"icon":"static/users.ico",
+		"Extra-data":""
+		}
+	],
+	 "style-on-event":[
+		{
+		"Enter":"#3a3a3a",
+		"Leave":"#000",
+		"activebackground":"#000",
+		"activeforeground":"#fff"
+		}
+	],
+	 "about":[
+	 	{
+	 		"author" : "Abdulrahim Mokhnache",
+	 		"email" :"abderrahimokhnache@gmail.com"
+	 	}
+	 ]
+
+}
